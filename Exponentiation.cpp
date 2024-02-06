@@ -1,4 +1,4 @@
-<a href="https://cses.fi/problemset/task/1095/">1095<\a>
+[1095](https://cses.fi/problemset/task/1095/)
 #include <bits/stdc++.h>
 #define ll long long
 #define pb push_back
